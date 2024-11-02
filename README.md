@@ -115,7 +115,3 @@ Here's an example of how I utilized SQL to identify potential vulnerabilities wi
 ### Summary
 
 To enhance our organization's security posture, I employed SQL queries with advanced filtering techniques to analyze login attempts and employee machine data. By joining the 'log_in_attempts' and 'employees' tables and utilizing operators like AND, OR, NOT, and the wildcard character (%), I was able to extract critical insights, identify anomalies, and take appropriate actions. 
-
-## Materials Provided
-<a href="https://docs.google.com/document/d/12wldwY7MB49m1PgouLjjarlcc1Ty1pf3FqNOfK4RBQE/edit?usp=sharing">File permissions in Linux</a><br>
-<a href="https://docs.google.com/document/d/1sBEeC5_8Uf_sHgOabpFd497VMQIm_Q3h/edit?usp=sharing&ouid=105064495821226407439&rtpof=true&sd=true">Current file permissions of the /home/researcher2/projects directory</a>
