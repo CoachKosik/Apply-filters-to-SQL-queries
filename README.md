@@ -31,24 +31,14 @@ Effectively utilizing SQL queries, demonstrats a strong foundation in database m
 
 ## Tools Used
 
-1. SQL Database Management System (DBMS):
-
-* The DBMS provides the database engine to store and manage the data.
-
-2. SQL Client:
-
-* A tool to interact with the database and execute SQL queries. This could be a command-line tool like mysql or a graphical user interface (GUI) tool like SQL Developer or DBeaver.
-
-3. Text Editor:
-
-A text editor (e.g., Notepad++, Sublime Text, Visual Studio Code) is used to write and edit SQL queries.
-Key SQL Concepts Used:
-
-SELECT: Used to retrieve specific data from the database.
-WHERE: Used to filter data based on specific conditions.
-AND, OR, NOT: Logical operators used to combine multiple conditions.
-LIKE: Used for pattern matching in string comparisons.
-Date and Time Functions: Used to filter data based on specific time periods.
+* SQL Database Management System (DBMS)
+* SQL Client
+* Key SQL Concepts Used:
+  * SELECT: Used to retrieve specific data from the database.
+  * WHERE: Used to filter data based on specific conditions.
+  * AND, OR, NOT: Logical operators used to combine multiple conditions.
+  * LIKE: Used for pattern matching in string comparisons.
+  * Date and Time Functions: Used to filter data based on specific time periods.
 
 ## Steps
 ### **Retrieve after-hours failed login attempts**
